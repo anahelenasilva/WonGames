@@ -1,5 +1,0 @@
-{
-  "dependencies": {
-    "strapi-plugin-ckeditor5": "^1.12.0"
-  }
-}
