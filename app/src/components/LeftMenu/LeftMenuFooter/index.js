@@ -1,8 +1,3 @@
-/**
- *
- * LeftMenuFooter
- *
- */
 
 import React from "react";
 
