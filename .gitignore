@@ -113,6 +113,6 @@ exports
 build
 .strapi-updater.json
 
-node_modules
+app/node_modules
 
-./data/**
+/data
