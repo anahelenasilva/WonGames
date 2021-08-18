@@ -11,8 +11,10 @@
   },
   "devDependencies": {},
   "dependencies": {
+    "jsdom": "^17.0.0",
     "knex": "0.21.18",
     "pg": "8.5.1",
+    "querystring": "^0.2.1",
     "slugify": "^1.6.0",
     "strapi": "3.6.6",
     "strapi-admin": "3.6.6",
@@ -29,7 +31,7 @@
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "b7e181a3-7f1d-4571-ae3e-fe626d45cd37"
+    "uuid": "746f6bc0-32db-4f04-b7dc-411dbc597bfe"
   },
   "engines": {
     "node": ">=10.16.0 <=14.x.x",
